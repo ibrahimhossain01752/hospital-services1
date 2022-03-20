@@ -1,0 +1,29 @@
+.location{
+    display: block;
+    /* //margin-left:-50px; */
+    margin-right:4px;
+    font-size: 15px;
+    color:white;
+    
+}
+
+.location1{
+    margin-right:166px;
+    font-size: 25px;
+    color:white;
+}
+.icons1{
+    margin-bottom:-80px;
+    margin-right: 300px;
+    font-size:24px;
+    color: rgba(255, 255, 255, 0.493);
+}
+
+.address22{
+    background-color: #e12454;
+    margin-bottom: 110px;
+}
+
+.address23{
+    background-color: #e12454;
+}
