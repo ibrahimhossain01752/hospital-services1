@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 
-const Services = () => {
+const Service = () => {
     const [services, setServices] = useState([]);
     useEffect(()=>{
         fetch('http://localhost:5000/allServices')
@@ -36,4 +36,4 @@ const Services = () => {
     );
 };
 
-export default Services;
+export default Service;
